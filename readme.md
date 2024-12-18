@@ -21,6 +21,7 @@
 1. The data set originally included **[English, German](https://aclanthology.org/W16-3210.pdf)** and **[Ukrainian](https://aclanthology.org/2023.unlp-1.7.pdf)**.
 2. **[Chinese and Uyghur](https://dl.acm.org/doi/pdf/10.1145/3652161)** are manually translated from English
 3. Japanese and Turkish are translated from English using **[NLLB-200](https://research.facebook.com/publications/no-language-left-behind/)**.
+4. Please cite **[paper](https://aclanthology.org/2023.unlp-1.7.pdf)** for Ukrainian and **[paper](https://aclanthology.org/W16-3210.pdf)** for English and German.
 
 
 ## Pair pre-training
