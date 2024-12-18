@@ -22,6 +22,7 @@
 2. **[Chinese and Uyghur](https://dl.acm.org/doi/pdf/10.1145/3652161)** are manually translated from English
 3. Japanese and Turkish are translated from English using **[NLLB-200](https://research.facebook.com/publications/no-language-left-behind/)**.
 4. Please cite **[paper](https://aclanthology.org/2023.unlp-1.7.pdf)** for Ukrainian and **[paper](https://aclanthology.org/W16-3210.pdf)** for English and German.
+5. Please cite **[paper](https://aclanthology.org/2024.findings-emnlp.320.pdf)** for other fine-tuning datasets.
 
 
 ## Pair pre-training
@@ -30,6 +31,7 @@
 
 1. German, Chinese and Uyghur is translated from English using **[lingvanex](https://lingvanex.com/translate/)** translator.
 2. Japanese, Ukrainian and Turkish are translated from English using **[NLLB-200](https://research.facebook.com/publications/no-language-left-behind/)**.
+3. For pre-training data sets other than English, please cite **[paper](https://aclanthology.org/2024.findings-emnlp.320.pdf)**.
 
 
 ```
